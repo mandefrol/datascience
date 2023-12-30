@@ -1,0 +1,281 @@
+Year,Rate,Region
+2003,31.3,Tigray
+2004,31.3,Tigray
+2005,29.4,Tigray
+2006,28.5,Tigray
+2007,27.4,Tigray
+2008,28.5,Tigray
+2009,25.6,Tigray
+2010,27.9,Tigray
+2011,28.1,Tigray
+2012,77.8,Tigray
+2013,60.4,Tigray
+2014,66.1,Tigray
+2015,86.9,Tigray
+2016,86.9,Tigray
+2017,67.4,Tigray
+2018,69,Tigray
+2019,75,Tigray
+2020,81,Tigray
+2021,,Tigray
+2022,,Tigray
+2003,16.6,Afar
+2004,58,Afar
+2005,59.9,Afar
+2006,54.8,Afar
+2007,67.5,Afar
+2008,69.6,Afar
+2009,58.9,Afar
+2010,31,Afar
+2011,35.4,Afar
+2012,102.8,Afar
+2013,100.2,Afar
+2014,123.9,Afar
+2015,100,Afar
+2016,100,Afar
+2017,87.9,Afar
+2018,76,Afar
+2019,68,Afar
+2020,88,Afar
+2021,79,Afar
+2022,71,Afar
+2003,30.6,Amhara
+2004,37,Amhara
+2005,24.2,Amhara
+2006,17.7,Amhara
+2007,22.8,Amhara
+2008,21,Amhara
+2009,22.8,Amhara
+2010,26.2,Amhara
+2011,27.5,Amhara
+2012,69.9,Amhara
+2013,55.6,Amhara
+2014,49,Amhara
+2015,52.4,Amhara
+2016,52,Amhara
+2017,56.3,Amhara
+2018,57,Amhara
+2019,57,Amhara
+2020,58,Amhara
+2021,61,Amhara
+2022,61,Amhara
+2003,42.6,Oromia
+2004,44,Oromia
+2005,33.3,Oromia
+2006,27.5,Oromia
+2007,31.7,Oromia
+2008,35.8,Oromia
+2009,36.6,Oromia
+2010,39.3,Oromia
+2011,38.9,Oromia
+2012,66.8,Oromia
+2013,60,Oromia
+2014,52.5,Oromia
+2015,65.4,Oromia
+2016,62,Oromia
+2017,64.3,Oromia
+2018,62,Oromia
+2019,70,Oromia
+2020,72,Oromia
+2021,79,Oromia
+2022,94,Oromia
+2003,27.8,Somali
+2004,18,Somali
+2005,17,Somali
+2006,20.7,Somali
+2007,14,Somali
+2008,20.3,Somali
+2009,19,Somali
+2010,17.6,Somali
+2011,10.3,Somali
+2012,33.9,Somali
+2013,33.7,Somali
+2014,22.7,Somali
+2015,32.6,Somali
+2016,44,Somali
+2017,48,Somali
+2018,69,Somali
+2019,56,Somali
+2020,62,Somali
+2021,62,Somali
+2022,70,Somali
+2003,27.1,Benishangul Gumuz
+2004,18,Benishangul Gumuz
+2005,37,Benishangul Gumuz
+2006,41,Benishangul Gumuz
+2007,22,Benishangul Gumuz
+2008,38.7,Benishangul Gumuz
+2009,38.6,Benishangul Gumuz
+2010,47.5,Benishangul Gumuz
+2011,26.6,Benishangul Gumuz
+2012,50.1,Benishangul Gumuz
+2013,34.9,Benishangul Gumuz
+2014,47.2,Benishangul Gumuz
+2015,55.7,Benishangul Gumuz
+2016,46,Benishangul Gumuz
+2017,55.9,Benishangul Gumuz
+2018,44,Benishangul Gumuz
+2019,43,Benishangul Gumuz
+2020,46,Benishangul Gumuz
+2021,37,Benishangul Gumuz
+2022,44,Benishangul Gumuz
+2003,54.4,SNNPR
+2004,38,SNNPR
+2005,36.9,SNNPR
+2006,38.8,SNNPR
+2007,39.3,SNNPR
+2008,40,SNNPR
+2009,39.2,SNNPR
+2010,39.4,SNNPR
+2011,48.4,SNNPR
+2012,67.7,SNNPR
+2013,55.1,SNNPR
+2014,53,SNNPR
+2015,75.3,SNNPR
+2016,57,SNNPR
+2017,61.2,SNNPR
+2018,62,SNNPR
+2019,65,SNNPR
+2020,68,SNNPR
+2021,67,SNNPR
+2022,77,SNNPR
+2003,,Sidama
+2004,,Sidama
+2005,,Sidama
+2006,,Sidama
+2007,,Sidama
+2008,,Sidama
+2009,,Sidama
+2010,,Sidama
+2011,,Sidama
+2012,,Sidama
+2013,,Sidama
+2014,,Sidama
+2015,,Sidama
+2016,,Sidama
+2017,,Sidama
+2018,,Sidama
+2019,,Sidama
+2020,,Sidama
+2021,122,Sidama
+2022,141,Sidama
+2003,,SWEPR
+2004,,SWEPR
+2005,,SWEPR
+2006,,SWEPR
+2007,,SWEPR
+2008,,SWEPR
+2009,,SWEPR
+2010,,SWEPR
+2011,,SWEPR
+2012,,SWEPR
+2013,,SWEPR
+2014,,SWEPR
+2015,,SWEPR
+2016,,SWEPR
+2017,,SWEPR
+2018,,SWEPR
+2019,,SWEPR
+2020,,SWEPR
+2021,,SWEPR
+2022,78,SWEPR
+2003,82.9,Gambella
+2004,92,Gambella
+2005,118.9,Gambella
+2006,168.4,Gambella
+2007,64.9,Gambella
+2008,76.7,Gambella
+2009,45.5,Gambella
+2010,63.6,Gambella
+2011,47,Gambella
+2012,99,Gambella
+2013,95.7,Gambella
+2014,69.1,Gambella
+2015,100,Gambella
+2016,100,Gambella
+2017,126.3,Gambella
+2018,152,Gambella
+2019,206,Gambella
+2020,100,Gambella
+2021,137,Gambella
+2022,158,Gambella
+2003,93.6,Harari
+2004,76,Harari
+2005,102.8,Harari
+2006,55.3,Harari
+2007,52.8,Harari
+2008,72.6,Harari
+2009,95,Harari
+2010,220,Harari
+2011,249.7,Harari
+2012,409.9,Harari
+2013,245.9,Harari
+2014,90.5,Harari
+2015,100,Harari
+2016,97,Harari
+2017,100,Harari
+2018,152,Harari
+2019,122,Harari
+2020,100,Harari
+2021,160,Harari
+2022,215,Harari
+2003,115.7,Addis Ababa
+2004,142,Addis Ababa
+2005,91.2,Addis Ababa
+2006,72.8,Addis Ababa
+2007,2.9,Addis Ababa
+2008,68.3,Addis Ababa
+2009,62.5,Addis Ababa
+2010,59.1,Addis Ababa
+2011,47.2,Addis Ababa
+2012,165.5,Addis Ababa
+2013,90.6,Addis Ababa
+2014,80,Addis Ababa
+2015,100,Addis Ababa
+2016,100,Addis Ababa
+2017,121.5,Addis Ababa
+2018,121,Addis Ababa
+2019,139,Addis Ababa
+2020,100,Addis Ababa
+2021,150,Addis Ababa
+2022,193,Addis Ababa
+2003,161.7,Dire Dawa
+2004,160,Dire Dawa
+2005,78.6,Dire Dawa
+2006,55.6,Dire Dawa
+2007,6.5,Dire Dawa
+2008,65.9,Dire Dawa
+2009,81.3,Dire Dawa
+2010,81.9,Dire Dawa
+2011,92.1,Dire Dawa
+2012,155.1,Dire Dawa
+2013,113.4,Dire Dawa
+2014,125.9,Dire Dawa
+2015,100,Dire Dawa
+2016,100,Dire Dawa
+2017,192.3,Dire Dawa
+2018,143,Dire Dawa
+2019,133,Dire Dawa
+2020,100,Dire Dawa
+2021,115,Dire Dawa
+2022,158,Dire Dawa
+2003,43.5,National
+2004,45,National
+2005,34,National
+2006,30,National
+2007,32.1,National
+2008,33.9,National
+2009,34,National
+2010,35.8,National
+2011,36.8,National
+2012,72,National
+2013,59.9,National
+2014,53.7,National
+2015,67.3,National
+2016,61,National
+2017,64.6,National
+2018,65,National
+2019,69,National
+2020,71,National
+2021,76,National
+2022,87,National
