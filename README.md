@@ -1,4 +1,3 @@
-# datascience
+# Data Science
 
-## I have edited this file once again
-This repository is created in order to attend the Data Science Course on Coursera
+Hello folks. This is my public repository where I keep data science related works of mine to readily available to you. You are free to use any works from this repository. Don't forget to acknowledge while you use it.
